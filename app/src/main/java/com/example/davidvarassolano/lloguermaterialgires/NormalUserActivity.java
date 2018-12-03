@@ -66,7 +66,8 @@ public class NormalUserActivity extends AppCompatActivity {
     }
     public void novacomanda (String nomcomanda){
         Intent intent = new Intent(this,EditCommandActivity.class);
-        intent.putExtra("nomcomanda",nomcomanda);
+        intent.putExtra("name",nomcomanda);
+
         startActivityForResult(intent,EDIT_NAME);
     }
 }
