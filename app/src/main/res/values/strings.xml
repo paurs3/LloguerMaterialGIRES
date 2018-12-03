@@ -6,4 +6,5 @@
     <string name="Borrar">Borrar</string>
     <string name="Confirmar">Confirmar</string>
     <string name="precio_alquiler">Preu Lloguer</string>
+    <string name="Llistat_tot_material">Llistat de material:</string>
 </resources>

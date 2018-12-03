@@ -16,6 +16,7 @@ public class NormalUserActivity extends AppCompatActivity {
     private static final int EDIT_NAME = 3;
 
 
+
     String [] [] datos = {
             {"Cova Forat Mico", "19/11/2018"},
             {"Aneto", "15/12/2018"},
