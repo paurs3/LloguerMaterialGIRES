@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".EditCommandActivity"></activity>
+        <activity android:name=".EditCommandActivity" />
+        <activity android:name=".ListMaterialActivity"></activity>
     </application>
 
 </manifest>
